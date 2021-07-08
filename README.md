@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working in Cloudstarts as intern
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on a magzine startup
+- 📫 How to reach me: saanyalasod@gmail.com
+- 😄 Pronouns: she/her
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saanyalasod&show_icons=true&theme=highcontrast)
+
 <!--
 **saanyalasod/saanyalasod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
