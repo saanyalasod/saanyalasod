@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working in Cloudstarts as intern
+🔭 I’m currently a student at Symbiosis University of Applied Sciences
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on a magzine startup
+- 👯 I’m looking for a full time role as data analyst
 - 📫 How to reach me: saanyalasod@gmail.com
 - 😄 Pronouns: she/her
 
