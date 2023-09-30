@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently a student at Symbiosis University of Applied Sciences
-- 🌱 I’m currently learning Data Science
+🔭 I’m currently working as a Data Analyst at Cloudstrats
+- 🌱 I’m currently working on Power BI and Azure
 - 👯 I’m looking for a full time role as data analyst
 - 📫 How to reach me: saanyalasod@gmail.com
 - 😄 Pronouns: she/her
