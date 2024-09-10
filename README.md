@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a Data Analyst at Cloudstrats
-- 🌱 I’m currently working on Power BI and Azure
+🔭 I’m currently pursuing PGDM- Big Data Analysis from Goa Institute of Management
+- 🌱 I’m currently learning Power BI 
 - 👯 I’m looking for a full time role as data analyst
-- 📫 How to reach me: saanyalasod@gmail.com
+- 📫 How to reach me: saanyalasod@gmail.com or saanya.lasod24b@gim.ac.in
 - 😄 Pronouns: she/her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saanyalasod&show_icons=true&theme=onedark)
